@@ -1,0 +1,3 @@
+D:/Book-Management-System/cmake-build-debug/CMakeFiles/Book_Management_System.dir
+D:/Book-Management-System/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Book-Management-System/cmake-build-debug/CMakeFiles/rebuild_cache.dir

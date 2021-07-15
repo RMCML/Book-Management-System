@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Book_Management_System.dir/objects.a
+C:\PROGRA~2\MinGW\mingw64\bin\ar.exe cr CMakeFiles\Book_Management_System.dir/objects.a @CMakeFiles\Book_Management_System.dir\objects1.rsp
+C:\PROGRA~2\MinGW\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Book_Management_System.dir/objects.a -Wl,--no-whole-archive -o Book_Management_System.exe -Wl,--out-implib,libBook_Management_System.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Book_Management_System.dir\linklibs.rsp
